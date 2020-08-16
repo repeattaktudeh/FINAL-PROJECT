@@ -1,5 +1,5 @@
 package javabeans;
-
+import java.sql*
 public class Reservation {
 
 	private String name;

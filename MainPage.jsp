@@ -49,7 +49,11 @@ h1, h2, h3, h4, h5, h6 {
     <div class="w3-col m6 w3-padding-large">
       <h1 class="w3-center">About Student's Kitchen</h1><br>
       <h5 class="w3-center">Since 2020</h5>
-      <p class="w3-center">The restaurant was founded by 4 students.</p>
+      <p class="w3-center">Student's kitchen is founded by 4 students from International Islamic University Malaysia (IIUM). 
+          The restaurant's concept is "serve students by students". The founders know what student's love the best. 
+          The restaurants not only serve foods but also, books for students to read for extra knowledge. 
+          With the interior "library-restaurant" concepts, Student's Kitchen has become a place for students to discuss, meeting and eat. 
+        </p>
     </div>
   </div>
 

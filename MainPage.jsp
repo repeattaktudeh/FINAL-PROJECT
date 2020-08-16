@@ -95,11 +95,8 @@ Mobile Number :
 Email :
 <input class="w3-input w3-padding-16" type="text" name="email">
 <br>
-Date :
+Date & time :
 <input class="w3-input w3-padding-16" type="datetime-local" name="date">
-<br>
-Time :
-<input class="w3-input w3-padding-16" type="number" name="time">
 <br>
 Number of Pax :
 <input class="w3-input w3-padding-16" type="number" name="noPax">

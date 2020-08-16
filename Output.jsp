@@ -40,7 +40,7 @@ h1, h2, h3, h4, h5, h6 {
 
 <jsp:setProperty name="Reservation" property="*" />
 
-<h2>Your Booking Has Complete!</h2>
+<h2>Your Booking Has Completed!</h2>
 <br>
 
 Name :
@@ -66,7 +66,8 @@ Time :
 Number of Pax :
 <jsp:getProperty name="Reservation" property="noPax"/>
 <br>
-
+<br>
+<a href="MainPage.jsp">Done Review</a>
 
 </body>
 </html>

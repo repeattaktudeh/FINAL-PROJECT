@@ -8,6 +8,7 @@ public class Reservation {
 	private String date;
 	private String time;
 	private String noPax;
+	private String bookingNo;
 	
 	public String getName() {
 		return name;
@@ -54,6 +55,13 @@ public class Reservation {
 
 	public void setNoPax(String noPax) {
 		this.noPax = noPax;
+	}
+	public String getBookingNo() {
+		return bookingNo;
+	}
+
+	public void setBookingNo(String bookingNo) {
+		this.bookingNo = bookingNo;
 	}
 	
 	public boolean storeData() {

@@ -29,12 +29,6 @@ h1, h2, h3, h4, h5, h6 {
 </div>
 
 <!-- Header -->
-<header class="w3-display-container w3-content w3-wide" style="max-width:1600px;min-width:500px" id="home">
-  <img class="w3-image" src="shawarma.jpg" alt="Shawarma" width="1600" height="800">
-  <div class="w3-display-bottomleft w3-padding-large w3-opacity">
-    <h1 class="w3-xxlarge">Arab Cuisine</h1>
-  </div>
-</header>
 
 <!-- Page content -->
 <div class="w3-content" style="max-width:1100px"> 
